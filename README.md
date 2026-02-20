@@ -21,7 +21,7 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
 ---

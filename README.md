@@ -14,14 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;Problem+Solver;" alt="Typing SVG" />
 </h1> -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Developer-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/Frontend%20Developer-%2300C4FF?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
 ---
 
 ## 🧑‍💼 About Me

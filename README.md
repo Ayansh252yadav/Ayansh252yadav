@@ -1,13 +1,4 @@
-<!-- PROFILE HEADER IMAGE -->
-<p align="center">
-  <img 
-       src="animated.png" 
-       alt="Top Image"
-       width="500"
-       height="200"
-       style="border-radius: 30px;"
-  />
-</p>
+
 
 <!-- PROFILE HEADER -->
 <!-- <h1 align="center">

@@ -90,20 +90,6 @@
 
 ---
 
-## 🐍 Contribution Graph Snake
-
-> _Visualizing my GitHub journey in motion — commit → animate → repeat 🟩🐍_
-
----
-
-<div align="center">
-  
-  <img height="250" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 💡 Quote That Inspires Me
 
 > _"💻 Code is like humor. When you have to explain it, it's bad."_  

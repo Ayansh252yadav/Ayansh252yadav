@@ -37,7 +37,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,spring,express,bootstrap" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🔧 Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---

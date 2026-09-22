@@ -31,7 +31,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring,express,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,spring" />
 </p>
 
 ---

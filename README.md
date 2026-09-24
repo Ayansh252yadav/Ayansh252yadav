@@ -1,16 +1,22 @@
+# 👋 Hi, I'm Ayansh Yadav
+
+🎓 B.Tech Computer Science & Engineering student at **Kanpur Institute of Technology**
+
+I'm a **Java-focused developer** currently building my skills in **Full Stack Development, DSA, and Backend Development**. I enjoy turning ideas into practical, user-focused applications and continuously improving my problem-solving skills.
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
-- 🌱 Learning **Full Stack Development**, exploring and Practicing **DSA**
-- 🛠️ Passionate about building **user-centric products**
-- 🤝 Open to **collaboration**, **internships**, and **tech community involvement**
+* 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
+* 💻 Focused on **Java, DSA, and Full Stack Development**
+* 🌱 Currently learning and building with **Spring Boot & React**
+* 🛠️ Interested in building **scalable and user-centric applications**
+* 🤝 Open to **collaboration, internships, and software development opportunities**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -18,23 +24,17 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js" />
 </p>
 
----
+### ⚛️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,spring" />
+</p>
 
 ### 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-
----
-
-### 🧩 Frameworks / Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,spring" />
-</p>
-
----
 
 ### 🔧 Tools & IDEs
 
@@ -43,22 +43,25 @@
 </p>
 
 ---
-<!--
-> 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_  
-> 💬 Feel free to fork, explore, and collaborate!
---> 
+
+## 🚀 What I'm Working On
+
+* 📚 Strengthening **DSA & problem-solving**
+* ☕ Building backend applications with **Java & Spring Boot**
+* ⚛️ Developing modern web applications using **React**
+* 🌐 Exploring **Full Stack Development**
+* 🧩 Building projects that solve practical problems
 
 ---
 
-## 💡 Quote That Inspires Me
+## 💡 Quote
 
-> _"💻 Code is like humor. When you have to explain it, it's bad."_  
+> *"Code is like humor. When you have to explain it, it's bad."*
+>
 > — Cory House
 
 ---
 
-<!--
 <p align="center">
-  🚀 Let’s innovate, collaborate, and build the future together!
+  ⭐ Thanks for visiting my profile!
 </p>
--->
